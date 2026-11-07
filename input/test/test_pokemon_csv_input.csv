@@ -1,0 +1,4 @@
+team,generation,name,level,ability,ability_on,is_dynamaxed,dynamax_level,is_salt_cure,allies_fainted,boosted_stat,item,gender,nature,ivs,evs,boosts,original_cur_hp,cur_hp,status,tera_type,toxic_counter,moves
+team-1,3,Farfetch'd,,,,,,,,,,,,,,,,,,,,Slash;Sand Attack;Substitute;Agility
+team-2,3,Omanyte,,,,,,,,,,,,,,,,,,,,Surf;Blizzard;Body Slam;Rest
+

@@ -1,0 +1,15 @@
+team,generation,name,level,ability,ability_on,is_dynamaxed,dynamax_level,is_salt_cure,allies_fainted,boosted_stat,item,gender,nature,ivs,evs,boosts,original_cur_hp,cur_hp,status,tera_type,toxic_counter,moves
+team-1,8,Mimikyu,100,Disguise,,,,,,,Red Card,M,Adamant,,,,,,,,,Shadow Claw;Shadow Sneak;Play Rough;Swords Dance
+team-1,8,Alcremie,100,Aroma Veil,,,,,,,Leftovers,F,Bold,,,,,,,,,Dazzling Gleam;Recover;Mystical Fire;Calm Mind
+team-1,8,Ditto,100,Imposter,,,,,,,Choice Scarf,M,Lax,,,,,,,,,Transform
+team-1,8,Darmanitan-Galar,100,Gorilla Tactics,,,,,,,Choice Band,M,Adamant,,,,,,,,,Icicle Crash;U-turn;Flare Blitz;Earthquake
+team-1,8,Toxapex,100,Regenerator,,,,,,,Black Sludge,M,Calm,,,,,,,,,Scald;Toxic;Recover;Baneful Bunker
+team-1,8,Palossand,100,Water Compaction,,,,,,,Weakness Policy,F,Modest,,,,,,,,,Amnesia;Shore Up;Earth Power;Giga Drain
+team-2,8,Tyranitar,100,Sand Stream,,,,,,,,M,Jolly,hp:31;atk:31;def:31;spa:31;spd:31;spe:31,hp:252;atk:252;def:252;spa:252;spd:252;spe:252,,,,,,,Dragon Dance;Stone Edge;Earthquake;Crunch
+team-2,8,Blaziken,100,Speed Boost,,,,,,,,M,Adamant,hp:31;atk:31;def:31;spa:31;spd:31;spe:31,hp:252;atk:252;def:252;spa:252;spd:252;spe:252,,,,,,,Flare Blitz;Brave Bird;Close Combat;Swords Dance
+team-2,8,Aegislash-Both,100,Stance Change,,,,,,,,M,Adamant,hp:31;atk:31;def:31;spa:31;spd:31;spe:31,hp:252;atk:252;def:252;spa:252;spd:252;spe:252,,,,,,,Swords Dance;Iron Head;Shadow Sneak;King's Shield
+team-2,8,Milotic,100,Marvel Scale,,,,,,,Leftovers,F,Bold,hp:31;atk:0;def:31;spa:31;spd:31;spe:31,hp:252;atk:0;def:252;spa:252;spd:252;spe:252,,,,,,,Recover;Scald;Ice Beam;Aqua Ring
+team-2,8,Hatterene,100,Magic Bounce,,,,,,,Life Orb,F,Modest,hp:31;atk:0;def:31;spa:31;spd:31;spe:31,hp:252;atk:0;def:252;spa:252;spd:252;spe:252,,,,,,,Psychic;Dazzling Gleam;Mystical Fire;Calm Mind
+team-2,8,Toxtricity,100,Punk Rock,,,,,,,Throat Spray,F,Naive,hp:31;atk:31;def:31;spa:31;spd:31;spe:31,hp:252;atk:252;def:252;spa:252;spd:252;spe:252,,,,,,,Boomburst;Shift Gear;Drain Punch;Overdrive
+
+
